@@ -6,6 +6,8 @@ A weather app which shows the current weather of the city entered. The UI is bea
 
 And yeah don't forget to leave feedback at the bottom of the page!
 
+### Note that this works best with chromium based browsers or Safari! ¯\_(ツ)_/¯
+
 ### Link to the Output:
 https://setucoder.github.io/Weather-App/
 
